@@ -92,11 +92,10 @@
 
 <main>
   <section id="about">
-    <h1>Olá, eu sou a Jamara!</h1>
-    <p>Sou estudante de Tecnologia da Informação, desenvolvendo projetos em PHP, JavaScript e SQL. Tenho interesse em criar soluções simples e funcionais e estou sempre em busca de novos aprendizados.</p>
-    <p>Sou dedicada, organizada e busco aprimorar meus conhecimentos por meio de projetos práticos e estudos constantes.</p>
-<p>Tenho interesse em Front-end e Back-end, e adoro criar projetos que unem design e funcionalidade.  
-  Meu objetivo é me tornar uma profissional completa, aprendendo novas tecnologias e aplicando meus conhecimentos em projetos reais.</p>
+  <h1>Olá, eu sou a Jamara!</h1> 
+<p>Nesse portifolio tem um pouco sobre alguns projetos no qual eu realizei ate hoje no meu profissional, estou cursando Tecnologia da Informação.</p> 
+<p>Tenho desenvolvido habilidades em linguagens como PHP, JavaScript, VScode, SQL dentre outroa, e estou focada em aprender e crescer na área, 
+<p>E sempre aberta para aprender mais coisas. Sou uma pessoa dedicada, organizada e sempre busco aprimorar meus conhecimentos por meio de projetos práticos e estudos constantes.</p>
   </section>
 
   <section id="projects">
@@ -113,7 +112,6 @@
       <h3>Sistema de Cadastro com SQL</h3>
       <p>Sistema para cadastro, edição e exclusão de usuários, utilizando banco de dados MySQL. Prática de CRUD e organização de dados.</p>
       <p><strong>Tecnologias:</strong> PHP, MySQL</p>
-      <a href="#" target="_blank" rel="noopener noreferrer"></a>
     </div>
 
     <div class="project">
@@ -121,7 +119,6 @@
       <p>Site temático da série ‘Anne with an E’, com páginas de personagens, episódios e curiosidades. Desenvolvido com foco em organização de conteúdo, design limpo e layout responsivo.</p>
       <p><strong>Tecnologias:</strong> PHP, HTML, CSS</p>
       <a href="https://anne.infinityfreeapp.com/" target="_blank" rel="noopener noreferrer">Ver site online</a>
-      <a href="#" target="_blank" rel="noopener noreferrer"></a>
     </div>
 
     <div class="project">
@@ -129,7 +126,6 @@
       <p>Site sobre a cantora Lana Del Rey, com seções de discografia, curiosidades e imagens. Desenvolvido com atenção ao design limpo, navegação intuitiva e conteúdo organizado.</p>
       <p><strong>Tecnologias:</strong> PHP, HTML, CSS</p>
       <a href="https://laninhadiva.infinityfreeapp.com/" target="_blank" rel="noopener noreferrer">Ver site online</a>
-      <a href="#" target="_blank" rel="noopener noreferrer"></a>
     </div>
 
   </section>
